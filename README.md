@@ -22,4 +22,6 @@ APIs Used:
 # Here is a screen shot of the website. 
 ![ ](Assets/CSS/screenshot1.png)
 
+This repository was forked/cloned and modified as part of an internship GitHub learning exercise.
+
 
